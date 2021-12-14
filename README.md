@@ -15,6 +15,7 @@ Follow the provided URL in the print logs, and open in browser.
 
 ## Core Files
 [ui.R](ui.R) - The view.  
-[Server.R](server.R) - Model and controller.  
+[server.R](server.R) - Model and controller.  
 [r1.rds](r1.rds) - Pre-trained UBCF model.  
+[top_by_genre.csv](top_by_genre.csv) - Static genre ranking.  
 
