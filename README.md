@@ -13,3 +13,7 @@ Install required R libraries.
 Run command: R -e "shiny::runApp('.')". 
 Follow the provided URL in the print logs, and open in browser.
 
+[ui.R](ui.R) - The view.
+[Server.R](server.R) - Model and controller.
+[r1.rds](r1.rds) - Pre-trained UBCF model.
+
